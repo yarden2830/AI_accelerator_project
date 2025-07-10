@@ -5,12 +5,12 @@ Running Hailo-8L on Raspberry Pi 5
 ## ⚙️ Prerequisites
 
 1. Hardware
-   - Raspberry Pi 5
-   - Hailo-8L accelerator attached via PCIe Gen-3.0
-   - Raspberry Pi Camera module
+  - Raspberry Pi 5
+  - Hailo-8L accelerator attached via PCIe Gen-3.0
+  - Raspberry Pi Camera module
 
 2. Software
-   - Newest Pi-OS from https://www.raspberrypi.com/software/operating-systems/#raspberry-pi-os-64-bit
+  - Newest Pi-OS from https://www.raspberrypi.com/software/operating-systems/#raspberry-pi-os-64-bit
 
 3. Model Files are under
   - hef_files
